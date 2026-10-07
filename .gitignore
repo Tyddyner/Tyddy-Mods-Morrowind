@@ -1,0 +1,30 @@
+# Blender backups and autosaves
+*.blend1
+*.blend2
+*.blend@
+*.blend_autosave
+
+# Image editor scratch files
+*.xcf~
+*.psd~
+*.kra~
+
+# Morrowind / TES3 tool backups and logs
+*.bak
+*.tmp
+*~
+tes3cmd.log
+Warnings.txt
+MWSE.log
+openmw.log
+*.esp.backup*
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Packaged releases (upload as GitHub Releases instead)
+*.7z
+*.zip
+*.rar
